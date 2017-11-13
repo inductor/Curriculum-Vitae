@@ -48,9 +48,9 @@
 顧客がクセが強い人が多いことが多くそれなりにハンドリング苦労してきたのでそこは強みかもしれないです
 
 ## やったことはないが興味があるもの
-Kotlin
-Swiftやってみたけど時間が、、
-モダンでかっこいいJavascript
+- Kotlin
+- Swiftやってみたけど時間が、、
+- モダンでかっこいいJavascript
 
 ## 登壇歴
 https://geechs-magazine.com/tag/business/20170421
