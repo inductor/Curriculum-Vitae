@@ -6,7 +6,7 @@
 |---|-----|
 |Name|inductor(Kohei Ota)|
 |Blog|[kelanote](https://blog.inductor.me/)|
-|Twitter|[@_inductor_](https://twitter.com/_inductor_)|
+|Twitter|[@\_inductor\_](https://twitter.com/_inductor_)|
 |Qiita|[inductor](http://qiita.com/inductor)|
 |Speakerdeck|[inductor](https://speakerdeck.com/inductor)|
 
@@ -68,6 +68,12 @@
   - 2017年の夏コミで出店したりも
 
 ## 職務経歴
+
+### 2018/4 - :
+
+職務: インフラエンジニア
+
+- 何やるかは入ってからのお楽しみ
 
 ### 2016/07 - 2018/3 : 株式会社ヒトメディア
 
