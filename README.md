@@ -6,7 +6,7 @@
 |---|-----|
 |Name|inductor(Kohei Ota)|
 |Blog|[kelanote](https://blog.inductor.me/)|
-|Twitter|[@htj_fusion](https://twitter.com/htj_fusion)|
+|Twitter|[@_inductor_](https://twitter.com/_inductor_)|
 |Qiita|[inductor](http://qiita.com/inductor)|
 |Speakerdeck|[inductor](https://speakerdeck.com/inductor)|
 
@@ -39,8 +39,10 @@
   - Docker Machine
 - Rancher(主にコミュニティベースの翻訳やったり)
   - Rancher JP Communityの運営メンバー
+  - 海外ゲストの通訳で登壇したり
 - GitLab 日本語翻訳チームのメンバー
 - NextCloud(ownCloud)
+- Kubernetes
 
 ## 強み
 - コミュ力はそれなりにあると言われます
