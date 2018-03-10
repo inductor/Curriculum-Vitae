@@ -43,6 +43,7 @@
 - GitLab 日本語翻訳チームのメンバー
 - NextCloud(ownCloud)
 - Kubernetes
+- インフラ勉強会の運営
 
 ## 強み
 - コミュ力はそれなりにあると言われます
@@ -57,6 +58,8 @@
 ## 登壇歴
 - https://geechs-magazine.com/tag/business/20170421
 - https://clem.connpass.com/event/58325/
+- Rancher Meetupで通訳
+- #インフラ勉強会
 
 ### 同人
 - [Arcaea](http://arcaea.lowiro.com/)というスマホ向け音ゲーの翻訳やったり
@@ -66,7 +69,7 @@
 
 ## 職務経歴
 
-### 2016/07 - : 株式会社ヒトメディア
+### 2016/07 - 2018/3 : 株式会社ヒトメディア
 
 職務: バックエンドエンジニア
 
