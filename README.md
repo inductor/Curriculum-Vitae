@@ -34,6 +34,7 @@
 ### その他
 
 - 開発環境の構築とか保守とか(Android Studioバージョンあげたりとかそのへん)
+- AWS
 - Docker
   - Docker Compose
   - Docker Machine
@@ -54,6 +55,7 @@
 - Kotlin
 - Swiftやってみたけど時間が、、
 - モダンでかっこいいJavascript
+- AWS
 
 ## 登壇歴
 - https://geechs-magazine.com/tag/business/20170421
@@ -69,11 +71,11 @@
 
 ## 職務経歴
 
-### 2018/4 - :
+### 2018/4 - : スタートトゥデイテクノロジーズ
 
 職務: インフラエンジニア
 
-- 何やるかは入ってからのお楽しみ
+- AWSをぽちぽちする仕事
 
 ### 2016/07 - 2018/3 : 株式会社ヒトメディア
 
