@@ -17,6 +17,9 @@
 - プログラミング言語
   - PHP
   - Android Java
+  - JavaScript
+  - Shell Script
+  - Scala(sbt)
 
 - 日本語
   - ネイティブ
@@ -30,11 +33,21 @@
 
 - Silex(Symfony系のマイクロフレームワーク)
 - Laravel 触ったことがあるくらい
+- Nuxt.js/Vue.js
+- Play Framework
 
 ### その他
 
 - 開発環境の構築とか保守とか(Android Studioバージョンあげたりとかそのへん)
 - AWS
+  - Elastic Beanstalk
+  - ECS/Fargate
+  - RDS
+  - CloudFormation
+  - CloudFront
+  - Lambda@Edge
+  - Systems Manager
+  - Secrets Manager
 - Docker
   - Docker Compose
   - Docker Machine
@@ -45,6 +58,9 @@
 - NextCloud(ownCloud)
 - Kubernetes
 - インフラ勉強会の運営
+- CircleCI
+- Nginx
+- h2o
 
 ## 強み
 - コミュ力はそれなりにあると言われます
@@ -53,9 +69,6 @@
 
 ## やったことはないが興味があるもの
 - Kotlin
-- Swiftやってみたけど時間が、、
-- モダンでかっこいいJavascript
-- AWS
 
 ## 登壇歴
 - https://geechs-magazine.com/tag/business/20170421
@@ -71,7 +84,7 @@
 
 ## 職務経歴
 
-### 2018/4 - : スタートトゥデイテクノロジーズ
+### 2018/4 - : ZOZOテクノロジーズ
 
 職務: インフラエンジニア
 
