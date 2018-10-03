@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|inductor(Kohei Ota)|
-|Blog|[kelanote](https://blog.inductor.me/)|
+|Blog|[kelanote](https://inductor.me/)|
 |Twitter|[@\_inductor\_](https://twitter.com/_inductor_)|
 |Qiita|[inductor](http://qiita.com/inductor)|
 |Speakerdeck|[inductor](https://speakerdeck.com/inductor)|
