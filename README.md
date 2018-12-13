@@ -45,9 +45,12 @@
   - RDS
   - CloudFormation
   - CloudFront
+  - CloudSearch
+  - DirectConnect
   - Lambda@Edge
   - Systems Manager
   - Secrets Manager
+  - OpsWorks
 - Docker
   - Docker Compose
   - Docker Machine
@@ -75,6 +78,10 @@
 - https://clem.connpass.com/event/58325/
 - Rancher Meetupで通訳
 - #インフラ勉強会
+- Docker Meetup Tokyo
+
+## 執筆
+- [詳解 HTTP/3](https://http3-explained.haxx.se/ja/) メイン翻訳・監修担当
 
 ### 同人
 - [Arcaea](http://arcaea.lowiro.com/)というスマホ向け音ゲーの翻訳やったり
