@@ -95,7 +95,8 @@
 
 職務: インフラエンジニア
 
-- AWSをぽちぽちする仕事
+- AWSをベースとしたクラウド基盤の構築・運用など 
+- CloudFormation / ECS / Lambda / RDS / CloudSearch / DirectConnect などの経験あり
 
 ### 2016/07 - 2018/3 : 株式会社ヒトメディア
 
