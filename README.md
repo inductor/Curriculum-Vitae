@@ -51,6 +51,15 @@
   - Systems Manager
   - Secrets Manager
   - OpsWorks
+- GCP
+  - Terraform
+  - GCS
+  - GKE
+  - LB
+  - Cloud DNS
+  - Cloud Composer
+  - BigQuery
+  - Datastore
 - Docker
   - Docker Compose
   - Docker Machine
