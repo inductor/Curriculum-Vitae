@@ -10,9 +10,9 @@
 |Qiita|[inductor](http://qiita.com/inductor)|
 |Speakerdeck|[inductor](https://speakerdeck.com/inductor)|
 
-太田 航平
-1993/3/25生
-静岡県出身
+- 太田 航平
+- 1993/3/25生
+- 静岡県出身
 
 ## スキル
 
