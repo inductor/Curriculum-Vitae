@@ -82,6 +82,7 @@
 
 ## 執筆
 - [詳解 HTTP/3](https://http3-explained.haxx.se/ja/) メイン翻訳・監修担当
+- Kubernetesドキュメントの翻訳
 
 ### 同人
 - [Arcaea](http://arcaea.lowiro.com/)というスマホ向け音ゲーの翻訳やったり
